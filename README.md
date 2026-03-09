@@ -3,18 +3,18 @@ A simple Book Management Web Application built with Python, Streamlit, and SQLit
 This application allows users to add, view, update, delete, and search books in a local database.
 
 ## Features
--Add a new book
--View book list
--Update book information
--Delete a book
--Search books by title
--Simple and interactive web UI
+- Add a new book
+- View book list
+- Update book information
+- Delete a book
+- Search books by title
+- Simple and interactive web UI
 
 ## Tech Stack
--Python
--Streamlit
--SQLite
--Pandas
+- Python
+- Streamlit
+- SQLite
+- Pandas
 
 ## How to Run
 1 Install dependencies
