@@ -18,22 +18,22 @@ This application allows users to add, view, update, delete, and search books in 
 
 ## How to Run
 1  Install dependencies
-  -pip install —r requirements.txt
+  - pip install —r requirements.txt
 2  Run the application
-  -streamlit run app.py
+  - streamlit run app.py
 3  Open browser
-  -http://localhost:8501
+  - http://localhost:8501
 
 ## Main Functions
  Add Book
  - Users can add a new book with title, author, and genre.
- Book List
+  Book List
  - Display all books stored in the database.
- Update Book
+  Update Book
  - Users can update book information using the Book ID.
- Delete Book
+  Delete Book
  - Remove a book from the database using the Book ID.
- Search
+  Search
  - Search books by title.
 
 
