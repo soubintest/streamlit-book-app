@@ -17,23 +17,23 @@ This application allows users to add, view, update, delete, and search books in 
 - Pandas
 
 ## How to Run
-###Install dependencies
+### Install dependencies
   - pip install —r requirements.txt
-###Run the application
+### Run the application
   - streamlit run app.py
-###Open browser
+### Open browser
   - http://localhost:8501
 
 ## Main Functions
- ###Add Book
+ ### Add Book
  - Users can add a new book with title, author, and genre.
- ###Book List
+ ### Book List
  - Display all books stored in the database.
- ###Update Book
+ ### Update Book
  - Users can update book information using the Book ID.
-  ###Delete Book
+  ### Delete Book
  - Remove a book from the database using the Book ID.
-  ###Search
+  ### Search
  - Search books by title.
 
 
